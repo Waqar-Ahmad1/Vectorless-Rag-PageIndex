@@ -1,0 +1,4 @@
+pageindex
+groq
+streamlit
+python-dotenv
